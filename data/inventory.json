@@ -72,20 +72,22 @@
    "updatedAt": "2026-10-07"
   },
   "g008": {
-   "category": "Games",
-   "events": [],
-   "moved": "",
    "name": "Arrow-tag supplies",
-   "notes": "",
    "qty": "several packages",
    "room": "Attic",
    "spot": "",
+   "category": "Games",
+   "notes": "",
+   "events": [
+    "Winter Camp"
+   ],
    "trips": {
     "Winter Camp": {
      "packed": "",
      "returned": ""
     }
    },
+   "moved": "",
    "updatedAt": "2026-10-08"
   },
   "g009": {
