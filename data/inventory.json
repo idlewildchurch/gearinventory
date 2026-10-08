@@ -1,0 +1,1112 @@
+{
+ "items": {
+  "g001": {
+   "category": "Games",
+   "moved": "",
+   "name": "Glow-in-the-dark dodgeballs",
+   "notes": "",
+   "qty": "",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g002": {
+   "category": "Games",
+   "moved": "",
+   "name": "Dodgeballs and assorted balls, 3 to 6 inch",
+   "notes": "",
+   "qty": "many, mixed",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g003": {
+   "category": "Games",
+   "moved": "",
+   "name": "Giant inflatable monster ball",
+   "notes": "",
+   "qty": "1",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g004": {
+   "category": "Games",
+   "events": [],
+   "moved": "",
+   "name": "Inflatable Gaga Ball Pit",
+   "notes": "Includes electric air pump",
+   "qty": "1",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-08"
+  },
+  "g005": {
+   "category": "Games",
+   "moved": "",
+   "name": "Pickleball paddles",
+   "notes": "",
+   "qty": "2 pairs",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g006": {
+   "category": "Games",
+   "moved": "",
+   "name": "Tennis balls",
+   "notes": "",
+   "qty": "~12",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g007": {
+   "category": "Games",
+   "moved": "",
+   "name": "Sponge balls and play sponges",
+   "notes": "Flagged to throw away",
+   "qty": "",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g008": {
+   "category": "Games",
+   "events": [],
+   "moved": "",
+   "name": "Arrow-tag supplies",
+   "notes": "",
+   "qty": "several packages",
+   "room": "Attic",
+   "spot": "",
+   "trips": {
+    "Winter Camp": {
+     "packed": "",
+     "returned": ""
+    }
+   },
+   "updatedAt": "2026-10-08"
+  },
+  "g009": {
+   "category": "Games",
+   "moved": "",
+   "name": "Double-barrel water guns",
+   "notes": "",
+   "qty": "",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g010": {
+   "category": "Games",
+   "moved": "",
+   "name": "Cones, 6 inch",
+   "notes": "",
+   "qty": "a few stacks",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g011": {
+   "category": "Games",
+   "moved": "",
+   "name": "Garbage cans, rough use for games and outdoors",
+   "notes": "",
+   "qty": "9",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g012": {
+   "category": "Games",
+   "moved": "",
+   "name": "Survivor 2026 maze boards",
+   "notes": "Part of the Survivor 2026 challenge set",
+   "qty": "4",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g013": {
+   "category": "Games",
+   "moved": "",
+   "name": "Spinning wheel prize prop, large",
+   "notes": "",
+   "qty": "1",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g014": {
+   "category": "Spirit",
+   "moved": "",
+   "name": "The Spirit Stick",
+   "notes": "",
+   "qty": "1",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g015": {
+   "category": "Lighting and effects",
+   "moved": "",
+   "name": "Smoke machines",
+   "notes": "High-density fog fluid stored with them",
+   "qty": "2",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g016": {
+   "category": "Lighting and effects",
+   "moved": "",
+   "name": "High-density fog fluid",
+   "notes": "",
+   "qty": "",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g017": {
+   "category": "Lighting and effects",
+   "moved": "",
+   "name": "Black light bulbs",
+   "notes": "",
+   "qty": "25+",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g018": {
+   "category": "Lighting and effects",
+   "moved": "",
+   "name": "Edison bulbs and assorted light bulbs",
+   "notes": "",
+   "qty": "misc",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g019": {
+   "category": "Lighting and effects",
+   "moved": "",
+   "name": "Christmas lights",
+   "notes": "",
+   "qty": "several sets",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g020": {
+   "category": "Lighting and effects",
+   "moved": "",
+   "name": "Work lights",
+   "notes": "",
+   "qty": "some",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g021": {
+   "category": "Lighting and effects",
+   "moved": "",
+   "name": "Wind-up portable work lights",
+   "notes": "",
+   "qty": "~12",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g022": {
+   "category": "Audio",
+   "moved": "",
+   "name": "Mini Fender speaker pack",
+   "notes": "",
+   "qty": "1",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g023": {
+   "category": "Audio",
+   "moved": "",
+   "name": "Mic stands for podcast mics",
+   "notes": "",
+   "qty": "misc",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g024": {
+   "category": "Flags",
+   "moved": "",
+   "name": "Team flags, blue",
+   "notes": "",
+   "qty": "2",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g025": {
+   "category": "Flags",
+   "moved": "",
+   "name": "Team flags, pink",
+   "notes": "",
+   "qty": "2",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g026": {
+   "category": "Flags",
+   "moved": "",
+   "name": "Team flags, red",
+   "notes": "",
+   "qty": "2",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g027": {
+   "category": "Flags",
+   "moved": "",
+   "name": "Team flags, black",
+   "notes": "",
+   "qty": "2",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g028": {
+   "category": "Flags",
+   "moved": "",
+   "name": "Team flag, green",
+   "notes": "",
+   "qty": "1",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g029": {
+   "category": "Flags",
+   "moved": "",
+   "name": "Team flag, yellow",
+   "notes": "",
+   "qty": "1",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g030": {
+   "category": "Flags",
+   "moved": "",
+   "name": "Team flag, purple",
+   "notes": "",
+   "qty": "1",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g031": {
+   "category": "Flags",
+   "moved": "",
+   "name": "Team flag, orange",
+   "notes": "",
+   "qty": "1",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g032": {
+   "category": "Signage",
+   "moved": "",
+   "name": "Sign stands, plastic cover for 11x17",
+   "notes": "",
+   "qty": "6",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g033": {
+   "category": "Signage",
+   "moved": "",
+   "name": "Velcro board, large",
+   "notes": "",
+   "qty": "1",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g034": {
+   "category": "Signage",
+   "moved": "",
+   "name": "Collapsible Velcro sign stand",
+   "notes": "For the old student banner",
+   "qty": "1",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g035": {
+   "category": "Signage",
+   "moved": "",
+   "name": "Jumbo wall-size Post-it notes",
+   "notes": "Wrinkled, check before using",
+   "qty": "",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g036": {
+   "category": "Craft",
+   "moved": "",
+   "name": "Mini macrame bracelet and bead kits",
+   "notes": "Verify the product name on the next attic visit",
+   "qty": "100+",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g037": {
+   "category": "Craft",
+   "moved": "",
+   "name": "Brown project and craft paper",
+   "notes": "",
+   "qty": "",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g038": {
+   "category": "Craft",
+   "moved": "",
+   "name": "Who’s Your One journals and notebooks",
+   "notes": "",
+   "qty": "a bunch",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g039": {
+   "category": "Craft",
+   "moved": "",
+   "name": "Glass vases for table settings",
+   "notes": "",
+   "qty": "15 to 20",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g040": {
+   "category": "Craft",
+   "moved": "",
+   "name": "Mason jars",
+   "notes": "",
+   "qty": "~24",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g041": {
+   "category": "Craft",
+   "moved": "",
+   "name": "Flagging tape",
+   "notes": "",
+   "qty": "25+ rolls",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g042": {
+   "category": "Coolers and bins",
+   "moved": "",
+   "name": "Coolers, large white",
+   "notes": "",
+   "qty": "2",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g043": {
+   "category": "Coolers and bins",
+   "moved": "",
+   "name": "Coolers, medium",
+   "notes": "",
+   "qty": "3",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g044": {
+   "category": "Coolers and bins",
+   "moved": "",
+   "name": "Buckets, 5 gallon",
+   "notes": "",
+   "qty": "many",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g045": {
+   "category": "Coolers and bins",
+   "moved": "",
+   "name": "Buckets, metal ~10 inch diameter",
+   "notes": "",
+   "qty": "12 to 16",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g046": {
+   "category": "Coolers and bins",
+   "moved": "",
+   "name": "Rolling carts",
+   "notes": "Hold the 7 yellow-lid bins",
+   "qty": "2",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g047": {
+   "category": "Coolers and bins",
+   "moved": "",
+   "name": "Storage bins, yellow lid",
+   "notes": "On the rolling carts",
+   "qty": "7",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g048": {
+   "category": "Hardware",
+   "moved": "",
+   "name": "PVC pipe, 3/4 inch",
+   "notes": "",
+   "qty": "lots",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g049": {
+   "category": "Hardware",
+   "moved": "",
+   "name": "PVC pipe, 1/2 inch",
+   "notes": "",
+   "qty": "some",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g050": {
+   "category": "Hardware",
+   "moved": "",
+   "name": "Rope, fishing line, galvanized wire",
+   "notes": "",
+   "qty": "misc",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g051": {
+   "category": "Hardware",
+   "moved": "",
+   "name": "Hose, large green",
+   "notes": "",
+   "qty": "1",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g052": {
+   "category": "Hardware",
+   "moved": "",
+   "name": "Charcoal",
+   "notes": "Unopened",
+   "qty": "1 bag",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g053": {
+   "category": "Hardware",
+   "moved": "",
+   "name": "Shirt hangers, plastic",
+   "notes": "",
+   "qty": "40+",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g054": {
+   "category": "Apparel",
+   "moved": "",
+   "name": "Camp shirts 2026, leftover inventory",
+   "notes": "",
+   "qty": "all remaining",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g055": {
+   "category": "Seasonal and decor",
+   "moved": "",
+   "name": "Straw and hay hula skirts",
+   "notes": "For luau and hula parties",
+   "qty": "",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g056": {
+   "category": "Seasonal and decor",
+   "moved": "",
+   "name": "Christmas tree pieces",
+   "notes": "Old, condition unknown",
+   "qty": "some",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g057": {
+   "category": "Seasonal and decor",
+   "moved": "",
+   "name": "Christmas present wrapping",
+   "notes": "",
+   "qty": "",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g058": {
+   "category": "Safety and medical",
+   "moved": "",
+   "name": "First aid kits",
+   "notes": "",
+   "qty": "several",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g059": {
+   "category": "Safety and medical",
+   "moved": "",
+   "name": "Crutches",
+   "notes": "",
+   "qty": "2 pairs",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g060": {
+   "category": "Safety and medical",
+   "moved": "",
+   "name": "Bug spray and sunscreen",
+   "notes": "Check expiration dates",
+   "qty": "1 small box",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g061": {
+   "category": "Safety and medical",
+   "moved": "",
+   "name": "Over-the-counter medications: ibuprofen, Tylenol, NyQuil",
+   "notes": "Heat exposure and access by minors both worth reviewing",
+   "qty": "various",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g062": {
+   "category": "Other",
+   "moved": "",
+   "name": "Pack-and-play, baby",
+   "notes": "",
+   "qty": "1",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g063": {
+   "category": "Other",
+   "moved": "",
+   "name": "Doorbell chimes and alarms, wireless battery powered",
+   "notes": "",
+   "qty": "8 to 10",
+   "room": "Attic",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g064": {
+   "category": "Games",
+   "moved": "",
+   "name": "Mesh bag with volleyballs, frisbees and spike ball set",
+   "notes": "Also holds an extension cord",
+   "qty": "1 bag",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g065": {
+   "category": "Games",
+   "moved": "",
+   "name": "Kick balls",
+   "notes": "",
+   "qty": "2",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g066": {
+   "category": "Games",
+   "moved": "",
+   "name": "Clear tote, green lid, board and card games",
+   "notes": "Phase 10, Dutch Blitz, Uno, Apples to Apples, Scrabble, Connect Four, playing cards",
+   "qty": "1 tote",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g067": {
+   "category": "Games",
+   "moved": "",
+   "name": "Inflatable gaga ball pit, Student Resource unit",
+   "notes": "With electric blower. Second pit; the other one is in the attic",
+   "qty": "1",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g068": {
+   "category": "Games",
+   "moved": "",
+   "name": "Dodgeball champions trophy",
+   "notes": "",
+   "qty": "1",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g069": {
+   "category": "Games",
+   "moved": "",
+   "name": "Inflatable dinosaur suit",
+   "notes": "",
+   "qty": "1",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g070": {
+   "category": "Audio",
+   "moved": "",
+   "name": "JBL speakers",
+   "notes": "",
+   "qty": "2",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g071": {
+   "category": "Audio",
+   "moved": "",
+   "name": "Speaker stands",
+   "notes": "",
+   "qty": "6+",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g072": {
+   "category": "Audio",
+   "moved": "",
+   "name": "Fender PA speaker system",
+   "notes": "Confirm whether related to the mini Fender pack in the attic",
+   "qty": "1",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g073": {
+   "category": "Audio",
+   "moved": "",
+   "name": "Small box of XLR mics, XLR cables, quarter inch cables, DI boxes",
+   "notes": "",
+   "qty": "1 box",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g074": {
+   "category": "Tech",
+   "moved": "",
+   "name": "iPads for guest check-in",
+   "notes": "",
+   "qty": "5",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g075": {
+   "category": "Books and resources",
+   "moved": "",
+   "name": "Is God Calling Me, books",
+   "notes": "",
+   "qty": "11",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g076": {
+   "category": "Books and resources",
+   "moved": "",
+   "name": "Before You Open Your Bible, books",
+   "notes": "",
+   "qty": "17",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g077": {
+   "category": "Books and resources",
+   "moved": "",
+   "name": "A Student’s Guide to Apologetics, books",
+   "notes": "",
+   "qty": "11",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g078": {
+   "category": "Books and resources",
+   "moved": "",
+   "name": "What Should I Do Now That I’m a Christian, books",
+   "notes": "",
+   "qty": "4",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g079": {
+   "category": "Books and resources",
+   "moved": "",
+   "name": "Gospel of John copies",
+   "notes": "",
+   "qty": "32",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g080": {
+   "category": "Books and resources",
+   "moved": "",
+   "name": "Gospel of Mark LifeBook handouts",
+   "notes": "",
+   "qty": "3 boxes",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g081": {
+   "category": "Books and resources",
+   "moved": "",
+   "name": "Bibles, assorted",
+   "notes": "",
+   "qty": "misc",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g082": {
+   "category": "Apparel",
+   "moved": "",
+   "name": "Idlewild branded tube socks",
+   "notes": "",
+   "qty": "50 to 60+ pairs",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g083": {
+   "category": "Apparel",
+   "moved": "",
+   "name": "Tote of old Idlewild student events volunteer shirts",
+   "notes": "",
+   "qty": "20+",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g084": {
+   "category": "Apparel",
+   "moved": "",
+   "name": "Free giveaway student shirts",
+   "notes": "",
+   "qty": "30 to 40+",
+   "room": "Student Resource",
+   "spot": "2 totes",
+   "updatedAt": "2026-10-07"
+  },
+  "g085": {
+   "category": "Apparel",
+   "moved": "",
+   "name": "Large tote of blank T-shirts and transfer prints",
+   "notes": "",
+   "qty": "1 tote",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g086": {
+   "category": "Apparel",
+   "moved": "",
+   "name": "Volunteer lanyards",
+   "notes": "Middle school, Wednesday night, and Sunday morning high school",
+   "qty": "3 sets",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g087": {
+   "category": "Event setup",
+   "moved": "",
+   "name": "Student tablecloths, large clear tote",
+   "notes": "",
+   "qty": "1 tote",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g088": {
+   "category": "Event setup",
+   "moved": "",
+   "name": "Tablecloths, smaller box",
+   "notes": "",
+   "qty": "1 box",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g089": {
+   "category": "Event setup",
+   "moved": "",
+   "name": "Plastic tablecloths, small box",
+   "notes": "",
+   "qty": "1 box",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g090": {
+   "category": "Signage",
+   "moved": "",
+   "name": "Foam core signs",
+   "notes": "Bus 1 through 5, check in, phone policy, exit only, student section",
+   "qty": "10",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g091": {
+   "category": "Decor",
+   "moved": "",
+   "name": "Picture frames, 12 by 12 inch",
+   "notes": "",
+   "qty": "9",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g092": {
+   "category": "Office supplies",
+   "moved": "",
+   "name": "Dry erase markers",
+   "notes": "",
+   "qty": "40+",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g093": {
+   "category": "Office supplies",
+   "moved": "",
+   "name": "Dry erasers, small",
+   "notes": "",
+   "qty": "30+",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g094": {
+   "category": "Office supplies",
+   "moved": "",
+   "name": "Pencils, full size",
+   "notes": "",
+   "qty": "~100",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g095": {
+   "category": "Office supplies",
+   "moved": "",
+   "name": "Clipboards",
+   "notes": "",
+   "qty": "6",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g096": {
+   "category": "Office supplies",
+   "moved": "",
+   "name": "Composition notebooks",
+   "notes": "",
+   "qty": "6",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g097": {
+   "category": "Office supplies",
+   "moved": "",
+   "name": "Folders",
+   "notes": "",
+   "qty": "30 to 40",
+   "room": "Student Resource",
+   "spot": "bin",
+   "updatedAt": "2026-10-07"
+  },
+  "g098": {
+   "category": "Craft",
+   "moved": "",
+   "name": "Washable sidewalk chalk",
+   "notes": "",
+   "qty": "2 boxes",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g099": {
+   "category": "Craft",
+   "moved": "",
+   "name": "Small tote of ribbon and yarn spools",
+   "notes": "",
+   "qty": "10 to 20 spools",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g100": {
+   "category": "Craft",
+   "moved": "",
+   "name": "Small tote of colored duct tape and fishing line",
+   "notes": "",
+   "qty": "~10 rolls",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g101": {
+   "category": "Craft",
+   "moved": "",
+   "name": "Velcro rolls, small box",
+   "notes": "",
+   "qty": "6+",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g102": {
+   "category": "Hardware",
+   "moved": "",
+   "name": "Extension cords",
+   "notes": "",
+   "qty": "4",
+   "room": "Student Resource",
+   "spot": "bin",
+   "updatedAt": "2026-10-07"
+  },
+  "g103": {
+   "category": "Cleaning",
+   "moved": "",
+   "name": "Disinfectant wipes",
+   "notes": "",
+   "qty": "2 small canisters",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g104": {
+   "category": "Cleaning",
+   "moved": "",
+   "name": "Mr. Clean magic erasers",
+   "notes": "",
+   "qty": "a few",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g105": {
+   "category": "Safety and medical",
+   "moved": "",
+   "name": "Medical supplies, mostly sunscreen",
+   "notes": "Check expiration dates",
+   "qty": "misc",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g106": {
+   "category": "Safety and medical",
+   "moved": "",
+   "name": "Tampons, sealed box",
+   "notes": "",
+   "qty": "1 box",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g107": {
+   "category": "Prizes and treats",
+   "moved": "",
+   "name": "Ring pops, sealed box",
+   "notes": "",
+   "qty": "1 box",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g108": {
+   "category": "Empty containers",
+   "moved": "",
+   "name": "Hefty plastic totes with lids, short and wide",
+   "notes": "Available for use",
+   "qty": "5+",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g109": {
+   "category": "Empty containers",
+   "moved": "",
+   "name": "Plastic tote, 32 by 14 inch, empty",
+   "notes": "",
+   "qty": "1",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  },
+  "g110": {
+   "category": "Unsorted",
+   "moved": "",
+   "name": "Completed guest tubes",
+   "notes": "Name unresolved, verify on the next visit",
+   "qty": "15",
+   "room": "Student Resource",
+   "spot": "",
+   "updatedAt": "2026-10-07"
+  }
+ }
+}
