@@ -1107,18 +1107,6 @@
    "room": "Student Resource",
    "spot": "",
    "updatedAt": "2026-10-07"
-  },
-  "nmv00zhz1zxxh6": {
-   "name": "Andrew's Computer",
-   "qty": "1",
-   "room": "Attic",
-   "spot": "",
-   "category": "Unsorted",
-   "notes": "",
-   "events": [],
-   "trips": {},
-   "moved": "",
-   "updatedAt": "2026-10-08"
   }
  }
 }
