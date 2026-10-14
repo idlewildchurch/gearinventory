@@ -81,7 +81,9 @@
    "spot": "",
    "category": "Games",
    "notes": "",
-   "events": [],
+   "events": [
+    "Winter Camp"
+   ],
    "trips": {
     "Winter Camp": {
      "packed": "",
@@ -89,7 +91,7 @@
     }
    },
    "moved": "",
-   "updatedAt": "2026-10-08"
+   "updatedAt": "2026-10-14"
   },
   "g009": {
    "category": "Games",
