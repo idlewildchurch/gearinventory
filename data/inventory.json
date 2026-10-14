@@ -664,14 +664,18 @@
    "updatedAt": "2026-10-07"
   },
   "g066": {
-   "category": "Games",
-   "moved": "",
    "name": "Clear tote, green lid, board and card games",
-   "notes": "Phase 10, Dutch Blitz, Uno, Apples to Apples, Scrabble, Connect Four, playing cards",
    "qty": "1 tote",
    "room": "Student Resource",
    "spot": "",
-   "updatedAt": "2026-10-07"
+   "category": "Games",
+   "notes": "Phase 10, Dutch Blitz, Uno, Apples to Apples, Scrabble, Connect Four, playing cards",
+   "events": [
+    "Winter Camp"
+   ],
+   "trips": {},
+   "moved": "",
+   "updatedAt": "2026-10-14"
   },
   "g067": {
    "category": "Games",
