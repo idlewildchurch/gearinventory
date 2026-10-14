@@ -11,14 +11,18 @@
    "updatedAt": "2026-10-07"
   },
   "g002": {
-   "category": "Games",
-   "moved": "",
    "name": "Dodgeballs and assorted balls, 3 to 6 inch",
-   "notes": "",
    "qty": "many, mixed",
    "room": "Attic",
    "spot": "",
-   "updatedAt": "2026-10-07"
+   "category": "Games",
+   "notes": "",
+   "events": [
+    "Dodgeball"
+   ],
+   "trips": {},
+   "moved": "",
+   "updatedAt": "2026-10-14"
   },
   "g003": {
    "category": "Games",
