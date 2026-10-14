@@ -35,15 +35,18 @@
    "updatedAt": "2026-10-07"
   },
   "g004": {
-   "category": "Games",
-   "events": [],
-   "moved": "",
    "name": "Inflatable Gaga Ball Pit",
-   "notes": "Includes electric air pump",
    "qty": "1",
    "room": "Attic",
    "spot": "",
-   "updatedAt": "2026-10-08"
+   "category": "Games",
+   "notes": "Includes electric air pump",
+   "events": [
+    "Dodgeball"
+   ],
+   "trips": {},
+   "moved": "",
+   "updatedAt": "2026-10-14"
   },
   "g005": {
    "category": "Games",
