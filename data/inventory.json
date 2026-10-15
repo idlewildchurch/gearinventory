@@ -675,7 +675,8 @@
    ],
    "trips": {
     "Winter Camp": {
-     "packed": "2026-10-15"
+     "packed": "2026-10-15",
+     "returned": "2026-10-15"
     }
    },
    "moved": "",
