@@ -673,7 +673,11 @@
    "events": [
     "Winter Camp"
    ],
-   "trips": {},
+   "trips": {
+    "Winter Camp": {
+     "packed": "2026-10-15"
+    }
+   },
    "moved": "",
    "updatedAt": "2026-10-14"
   },
