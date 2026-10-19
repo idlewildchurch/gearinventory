@@ -284,14 +284,18 @@
    "updatedAt": "2026-10-07"
   },
   "g028": {
-   "category": "Flags",
-   "moved": "",
    "name": "Team flag, green",
-   "notes": "",
    "qty": "1",
    "room": "Attic",
    "spot": "",
-   "updatedAt": "2026-10-07"
+   "category": "Flags",
+   "notes": "",
+   "events": [
+    "Winter Camp"
+   ],
+   "trips": {},
+   "moved": "",
+   "updatedAt": "2026-10-19"
   },
   "g029": {
    "category": "Flags",
