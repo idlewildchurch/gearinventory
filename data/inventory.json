@@ -713,14 +713,18 @@
    "updatedAt": "2026-10-07"
   },
   "g070": {
-   "category": "Audio",
-   "moved": "",
    "name": "JBL speakers",
-   "notes": "",
    "qty": "2",
    "room": "Student Resource",
    "spot": "",
-   "updatedAt": "2026-10-07"
+   "category": "Audio",
+   "notes": "",
+   "events": [
+    "Winter Camp"
+   ],
+   "trips": {},
+   "moved": "",
+   "updatedAt": "2026-10-19"
   },
   "g071": {
    "category": "Audio",
